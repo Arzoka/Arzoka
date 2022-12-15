@@ -1,4 +1,4 @@
-<h2 align-"center">Hi!</h2>
+<h2 text-align-"center">Hi!</h2>
 
 <p align="center"> 
   Visitor count<br>
