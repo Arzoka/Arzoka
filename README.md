@@ -20,6 +20,6 @@
 <br></br>
 
 <p align="center"> 
-  VISITORS<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/Arzoka/count.svg" />
 </p>
