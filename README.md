@@ -26,6 +26,6 @@
 <br></br>
 
 <p align="center"> 
-  Visitor Count<br>
+  Visits<br>
   <img src="https://profile-counter.glitch.me/Arzoka/count.svg" title="Thanks for checking out my GitHub!" />
 </p>
