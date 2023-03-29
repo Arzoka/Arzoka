@@ -14,6 +14,7 @@
   <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/python-original.svg" title="Python" height="50" />  
   <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/lua-original-new.svg" title="Lua" height="50" />  
   <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/sql-original.svg" title="sql" height="50" />  
+  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/php-original.svg" title="sql" height="50" />  
 </div>
   
 </table>
