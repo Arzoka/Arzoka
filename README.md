@@ -8,14 +8,14 @@
 <table align="center"><tr><td>
   
 <div align="center">
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/javascript-original.svg" title="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/css3-original-wordmark.svg" title="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/html5-original-wordmark.svg" title="HTML5" height="50" /> 
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/python-original.svg" title="Python" height="50" />  
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/lua-original-new.svg" title="Lua" height="50" />  
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/sql-original.svg" title="sql" height="50" />  
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/php-original.svg" title="sql" height="50" />  
-  <img style="margin: 10px" src="https://35233.hosts2.ma-cloud.nl/Learning/cpp-original.svg" title="sql" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/javascript-original.svg" title="JavaScript" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/css3-original-wordmark.svg" title="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/html5-original-wordmark.svg" title="HTML5" height="50" /> 
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/python-original.svg" title="Python" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/lua-original-new.svg" title="Lua" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/sql-original.svg" title="sql" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/php-original.svg" title="sql" height="50" />  
+  <img style="margin: 10px" src="https://mlockx.nl/Learning/cpp-original.svg" title="sql" height="50" />  
 </div>
   
 </table>
