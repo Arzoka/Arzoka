@@ -1,6 +1,9 @@
 Hi 👋 My name is Melvin (Arzoka)
 =======================
 
+<img src="https://media1.tenor.com/m/M07Tm-PbhRkAAAAd/bulbasaur-happy.gif" />
+<small>And I really like bulbasaur :)</small>
+
 Full-stack developer & Founder of Mejatech
 ------------------------------------------
 
